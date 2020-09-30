@@ -20,7 +20,6 @@ class RegistrationForm extends Component {
 	handleSubmit = (ev) => {
 		ev.preventDefault();
 		const { name, email, password } = ev.target;
-		console.log(name);
 		UserApiService.postUser({
 			name: name.value,
 			email: email.value,
