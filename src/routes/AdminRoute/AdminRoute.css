@@ -1,9 +1,10 @@
 li {
 	text-decoration: none;
-	text-align: left;
+	text-align: center;
 	align-items: center;
 	align-content: left;
 	list-style: none;
+	width: 100%;
 }
 ul {
 	align-content: center;

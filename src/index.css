@@ -72,8 +72,6 @@ li {
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
-	max-width: 1000px;
-	min-width: 800px;
 	border-bottom: 1px solid #e0feff;
 	align-items: center;
 	margin-bottom: 15px;
